@@ -1,0 +1,141 @@
+﻿  dllmain.cpp
+  EngineAPI.cpp
+C:\Users\Mac\source\repos\Engine\Engine\CommanHeaders.h(4,24): warning C4081: 应输入“:”；找到“;”
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(6,18): error C2061: 语法错误: 标识符“u32”
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(9,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(9,32): error C2737: “id::internal::u32”: 必须初始化 constexpr 对象
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(9,13): error C2737: “id::internal::u32”: 必须初始化 constexpr 对象
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(9,17): error C2146: 语法错误: 缺少“;”(在标识符“generation_bits”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(9,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(10,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(10,27): error C2737: “id::internal::u32”: 必须初始化 constexpr 对象
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(10,13): error C2086: “const int id::internal::u32”: 重定义
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(9,13): message : 参见“id::internal::u32”的声明
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(10,17): error C2146: 语法错误: 缺少“;”(在标识符“index_bits”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(10,34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(10,35): error C2065: “id_type”: 未声明的标识符
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(12,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(12,31): error C2737: “id::internal::id_type”: 必须初始化 constexpr 对象
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(12,13): error C2737: “id::internal::id_type”: 必须初始化 constexpr 对象
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(12,21): error C2146: 语法错误: 缺少“;”(在标识符“index_mask”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(12,34): error C2064: 项不会计算为接受 1 个参数的函数
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(13,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(13,36): error C2737: “id::internal::id_type”: 必须初始化 constexpr 对象
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(13,13): error C2086: “const int id::internal::id_type”: 重定义
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(12,13): message : 参见“id::internal::id_type”的声明
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(13,21): error C2146: 语法错误: 缺少“;”(在标识符“generation_mask”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(13,39): error C2064: 项不会计算为接受 1 个参数的函数
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(14,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(14,28): error C2737: “id::internal::id_type”: 必须初始化 constexpr 对象
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(14,13): error C2086: “const int id::internal::id_type”: 重定义
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(12,13): message : 参见“id::internal::id_type”的声明
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(14,21): error C2146: 语法错误: 缺少“;”(在标识符“id_mask”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(14,30): error C2064: 项不会计算为接受 1 个参数的函数
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(17,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(17,29): error C2737: “id::id_type”: 必须初始化 constexpr 对象
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(17,12): error C2737: “id::id_type”: 必须初始化 constexpr 对象
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(17,20): error C2146: 语法错误: 缺少“;”(在标识符“inalid_id”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(17,31): error C2064: 项不会计算为接受 1 个参数的函数
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(18,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(18,36): error C2737: “id::u32”: 必须初始化 constexpr 对象
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(18,12): error C2737: “id::u32”: 必须初始化 constexpr 对象
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(18,16): error C2146: 语法错误: 缺少“;”(在标识符“min_deleted_elements”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(48,31): error C2039: "conditional_t": 不是 "std" 的成员
+C:\Users\Mac\source\repos\Engine\EngineDLL\predefined C++ types (compiler internal)(342,11): message : 参见“std”的声明
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(48,44): error C2061: 语法错误: 标识符“conditional_t”
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(48,73): error C2039: "conditional_t": 不是 "std" 的成员
+C:\Users\Mac\source\repos\Engine\EngineDLL\predefined C++ types (compiler internal)(342,11): message : 参见“std”的声明
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(48,116): error C2059: 语法错误:“>”
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(49,23): error C2065: “generation_type”: 未声明的标识符
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(49,47): error C2065: “generation_bits”: 未声明的标识符
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(50,41): error C2065: “generation_type”: 未声明的标识符
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(50,58): error C2143: 语法错误: 缺少“;”(在“>”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(50,58): error C2059: 语法错误:“>”
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(50,61): error C2059: 语法错误:“)”
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(53,2): error C7525: 内联变量至少需要 "/std:c++17"
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(53,19): error C2146: 语法错误: 缺少“)”(在标识符“id”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(54,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(54,2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(61,9): error C7525: 内联变量至少需要 "/std:c++17"
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(62,8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(61,9): error C2373: “id::id_type”: 重定义；不同的类型修饰符
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(17,12): message : 参见“id::id_type”的声明
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(62,3): error C2146: 语法错误: 缺少“;”(在标识符“index”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(62,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(62,17): error C2146: 语法错误: 缺少“)”(在标识符“id”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(63,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(63,2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(70,9): error C7525: 内联变量至少需要 "/std:c++17"
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(71,12): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(70,9): error C2373: “id::id_type”: 重定义；不同的类型修饰符
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(17,12): message : 参见“id::id_type”的声明
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(71,2): error C2146: 语法错误: 缺少“;”(在标识符“generation”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(71,21): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(71,21): error C2146: 语法错误: 缺少“)”(在标识符“id”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(72,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(72,2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(79,9): error C7525: 内联变量至少需要 "/std:c++17"
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(80,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(79,9): error C2373: “id::id_type”: 重定义；不同的类型修饰符
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(17,12): message : 参见“id::id_type”的声明
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(80,3): error C2146: 语法错误: 缺少“;”(在标识符“new_generation”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(80,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(80,26): error C2146: 语法错误: 缺少“)”(在标识符“id”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(81,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(81,2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(98,31): error C2061: 语法错误: 标识符“id_type”
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(99,23): error C2833: “operator id_type”不是可识别的运算符或类型
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(99,30): error C2059: 语法错误:“newline”
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(99,39): error C2334: “{”的前面有意外标记；跳过明显的函数体
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(101,12): error C3646: “_id”: 未知重写说明符
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(101,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(98,30): error C2882: “id”: 在表达式中非法使用命名空间标识符
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(98,45): error C2614: “id::internal::id_base”: 非法的成员初始化:“_id”不是基或成员
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(120,38): error C2178: 不能使用“explicit”说明符声明“name”
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(120,38): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(120,38): error C2146: 语法错误: 缺少“)”(在标识符“id”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(121,12): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(121,12): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(121,18): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(123,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(123,13): error C2365: “id::name”: 重定义；以前的定义是“数据变量”
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(120,21): message : 参见“id::name”的声明
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(124,3): error C2059: 语法错误:“:”
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(124,12): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(124,18): error C2039: "id_mask": 不是 "id" 的成员
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(4,11): message : 参见“id”的声明
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(124,26): error C2065: “id_mask”: 未声明的标识符
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(124,26): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(123,13): error C3615: constexpr 函数“id::name”不能生成常量表达式
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(125,2): message : 由于控制到达 constexpr 函数的末尾，导致失败
+C:\Users\Mac\source\repos\Engine\Engine\Utilities.h(10,1): error C2429: 语言功能 "嵌套命名空间定义" 需要编译器标志 "/std:c++17"
+C:\Users\Mac\source\repos\Engine\Engine\Utilities.h(23,1): error C2429: 语言功能 "嵌套命名空间定义" 需要编译器标志 "/std:c++17"
+C:\Users\Mac\source\repos\Engine\Engine\Utilities.h(42,1): error C2429: 语言功能 "嵌套命名空间定义" 需要编译器标志 "/std:c++17"
+C:\Users\Mac\source\repos\Engine\Engine\Utilities.h(45,8): error C2920: 重定义:“primal::utl::vector”: 类 模板 已经声明为“using primal::utl::vector = std::vector<T,std::allocator<_Ty>>”
+C:\Users\Mac\source\repos\Engine\Engine\Utilities.h(45,8): message : 参见“primal::utl::vector”的声明
+C:\Users\Mac\source\repos\Engine\Engine\Utilities.h(13,2): message : 参见“primal::utl::vector”的声明
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(3,1): error C2429: 语言功能 "嵌套命名空间定义" 需要编译器标志 "/std:c++17"
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(8,29): error C2061: 语法错误: 标识符“entity_id”
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(8,43): error C2590: “entity”: 只有构造函数可以有基/成员初始值列表
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(9,31): error C2590: “entity”: 只有构造函数可以有基/成员初始值列表
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(9,22): error C2535: “primal::game_entity::enity::enity(void)”: 已经定义或声明成员函数
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(8,22): message : 参见“primal::game_entity::enity::enity”的声明
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(10,23): error C3646: “get_id”: 未知重写说明符
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(10,30): error C2059: 语法错误:“)”
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(10,38): error C2334: “{”的前面有意外标记；跳过明显的函数体
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(11,13): error C2144: 语法错误:“bool”的前面应有“;”
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(11,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(13,3): error C2653: “transform”: 不是类或命名空间名称
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(13,24): error C3646: “transform”: 未知重写说明符
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(13,33): error C2059: 语法错误:“(”
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(13,41): error C2238: 意外的标记位于“;”之前
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(16,13): error C3646: “_id”: 未知重写说明符
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(16,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(8,43): error C2882: “id”: 在表达式中非法使用命名空间标识符
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(8,44): error C2614: “primal::game_entity::enity”: 非法的成员初始化:“_id”不是基或成员
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(9,42): error C2039: "invalid_id": 不是 "id" 的成员
+C:\Users\Mac\source\repos\Engine\Engine\Id.h(4,11): message : 参见“id”的声明
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(9,31): error C2065: “invalid_id”: 未声明的标识符
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(9,33): error C2614: “primal::game_entity::enity”: 非法的成员初始化:“_id”不是基或成员
+C:\Users\Mac\source\repos\Engine\Engine\GameEntity.h(9,31): fatal  error C1003: 错误计数超过 100；正在停止编译
+  正在生成代码...

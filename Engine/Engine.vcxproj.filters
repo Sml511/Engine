@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>{64a812fb-b865-41d2-8856-43bb3b9c555f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{c4bd619c-e5d4-444b-9a4e-12ffd6be10e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EngineAPI">
+      <UniqueIdentifier>{f8209ede-5218-4809-9bed-68ca882cf076}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components">
+      <UniqueIdentifier>{89ebb71f-b2e2-4a6c-ace5-b62b1946a787}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CommanHeaders.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimitiveTypes.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Id.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentsCommon.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEntity.h">
+      <Filter>EngineAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="TransformComponent.h">
+      <Filter>EngineAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="MathTypes.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="ScriptComponent.h">
+      <Filter>EngineAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="Script.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Transform.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Script.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
